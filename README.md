@@ -2,21 +2,28 @@
 DoS attack simulation using hping3 and traffic analysis
 # DoS Attack Simulation
 
+# DoS Attack Simulation
+
 ## Overview
-Simulation of a Denial of Service (DoS) attack using hping3.
+This project demonstrates a live simulation of a Denial of Service (DoS) attack using hping3.
 
 ## Objectives
 - Understand DoS attack behavior
-- Analyze system response under attack
+- Analyze system performance under attack conditions
 
 ## Tools Used
 - hping3
 - Wireshark
 
-## Methodology
-- Generated traffic using hping3
-- Monitored network and system performance
+## Demonstration
+A live demonstration of the attack can be viewed here:
 
-## Results
-- Increased CPU usage
-- Network congestion observed
+👉 [Watch the video](PUT YOUR LINK HERE)
+
+## Key Observations
+- Increased CPU usage during attack
+- Network traffic spike observed
+- Service performance degradation
+
+## Disclaimer
+This project was conducted in a controlled lab environment for educational purposes only.
