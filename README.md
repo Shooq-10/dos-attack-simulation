@@ -1,8 +1,6 @@
-# dos-attack-simulation
-DoS attack simulation using hping3 and traffic analysis
 # DoS Attack Simulation
 
-# DoS Attack Simulation
+DoS attack simulation using hping3 and traffic analysis
 
 ## Overview
 This project demonstrates a live simulation of a Denial of Service (DoS) attack using hping3.
@@ -18,7 +16,7 @@ This project demonstrates a live simulation of a Denial of Service (DoS) attack 
 ## Demonstration
 A live demonstration of the attack can be viewed here:
 
-👉 [Watch the video](PUT YOUR LINK HERE)
+👉 Watch the video (https://drive.google.com/file/d/108Acer29x0ok07TwzfrJ58OKVBI2_8wl/view?usp=drivesdk)
 
 ## Key Observations
 - Increased CPU usage during attack
